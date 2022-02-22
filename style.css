@@ -1,0 +1,63 @@
+body {
+    background-color: #3a3a3a;
+    font-family: Arial;
+}
+
+.main-text {
+    font-size: 50px;
+    text-align: center;
+    color:rgb(247, 247, 247);
+}
+
+.style {
+    color: #279579;
+    font-size: 42px;
+}
+
+.richik {
+    width: 400px;
+    margin: 15px 38%;
+    background-color: rgb(247, 247, 247);
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.richik-img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 13px 3px rgb(100, 100, 100);
+}
+
+.richik-h1 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(36, 36, 36);
+}
+
+.richik-txt {
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.richik-h2 {
+    font-size: 22px;
+}
+
+.richik-list {
+    padding-left: 0px;
+    list-style-position: inside;
+    font-size: 17px;
+}
+
+.Andrew {
+    width: 400px;
+    background-color: white;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px 38%;
+}
